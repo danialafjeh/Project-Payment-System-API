@@ -4,7 +4,7 @@
 Projects are numbered in development order. Higher numbers represent newer projects that introduce new backend tools, concepts, and increasing levels of complexity throughout my learning journey.
 
 
-# Payment System API
+# Payment System REST API
 
 A backend payment system API built with Django REST Framework, designed to simulate the payment infrastructure of an online store with an internal customer wallet.
 
